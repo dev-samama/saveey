@@ -1,5 +1,5 @@
 name: saveey
-version: 1.0.0+2
+version: 1.0.0+3
 description: A comprehensive and secure Saveey package for Flutter, providing robust encryption and decryption capabilities for key-value storage. Safeguard your sensitive data with advanced cryptographic techniques, seamlessly integrated into your Flutter applications. Ensure the confidentiality and integrity of your data using Saveey Flutter.
 homepage: https://github.com/dev-samama/cipher_flutter/blob/main/lib/cipher.dart
 
